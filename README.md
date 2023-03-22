@@ -1,4 +1,4 @@
-# Twitter Data Pipeline using SnowFlake
+# Twitter Data Pipeline using Airflow
 ## Project Description
   ![image](https://user-images.githubusercontent.com/48169929/226802676-755f4bdb-9cb4-43f1-ac35-2072fccddbed.png)
 1. For the **Data Collection phase**, we utilized Python and the snscrape package to extract tweets related to a specific keyword from Twitter.
